@@ -45,6 +45,7 @@ dependencies = [
     "seaborn",
     "setuptools",
     "torch",
+    "torchvision",
     "twine>=1.11.0",
     "wandb",
     "wheel",

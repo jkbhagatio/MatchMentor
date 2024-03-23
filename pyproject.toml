@@ -35,6 +35,7 @@ dependencies = [
     "optuna",
     "plotly",
     "pre-commit",
+    "PyQt5",
     "pyright",
     "pytest",
     "pytest-cov",
